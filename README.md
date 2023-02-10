@@ -1,1 +1,1 @@
-# odin-recipes-2
+Refreshing my skills on HTML by doing this project.
