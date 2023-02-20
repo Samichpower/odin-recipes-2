@@ -39,6 +39,7 @@ img {
 .recipe {
   border: 1px solid rgb(230, 230, 230);
   margin-top: 10px;
+  text-align: center;
 }
 
 .box {
