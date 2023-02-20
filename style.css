@@ -1,0 +1,20 @@
+* {
+  font-family: 'Papyrus', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: rgb(192, 192, 192);
+}
+
+.main-box {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  font-weight: bold;
+}
