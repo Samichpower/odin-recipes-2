@@ -2,6 +2,7 @@
   font-family: 'Papyrus', sans-serif;
   margin: 0px;
   padding: 0px;
+  font-weight: bold;
 }
 
 body {
@@ -18,10 +19,19 @@ body {
   width: 500px;
 }
 
-h1 {
-  font-weight: bold;
-}
-
 .recipe-list {
   list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.recipe {
+  border: 1px solid rgb(207, 207, 207);
 }
