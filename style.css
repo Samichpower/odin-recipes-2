@@ -19,8 +19,16 @@ body {
   width: 500px;
 }
 
-.recipe-list {
+.lists {
   list-style: none;
+}
+
+.list-steps {
+  list-style-position: inside;
+}
+
+.list-steps li {
+  margin: ;
 }
 
 a {
@@ -34,5 +42,9 @@ img {
 
 .recipe {
   border: 1px solid rgb(207, 207, 207);
+  margin-top: 10px;
+}
+
+.box {
   margin-top: 10px;
 }
